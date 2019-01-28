@@ -12,7 +12,7 @@ On a separate branches added and structured folders and initial files. On a dev 
 ## Authors
 
 * **Vira Romanko** - *Designer* 
-* **Cadance Watson** - *Developer* 
+* **Cadence Watson** - *Developer* 
 
 
 
