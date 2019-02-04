@@ -1,4 +1,4 @@
-# Watson_C_Romanko_V_Musik_Mixer
+Romanko and Watson's Robo-Techno mixer
 
 # Interactive Musik Mixer
 
