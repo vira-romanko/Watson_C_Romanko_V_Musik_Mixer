@@ -1,5 +1,5 @@
 # Watson_C_Romanko_V_Musik_Mixer
-# Watson_C_Romanko_V_Musik_Mixer
+
 # Interactive Musik Mixer
 
 Built and designed multimedia application using design and motion tools, CSS, HTML, JavaScript.
