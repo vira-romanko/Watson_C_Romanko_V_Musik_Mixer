@@ -1,4 +1,5 @@
-# Watson_C_Romanko_V_Musik_Mixer
+Romanko and Watson's Robo-Techno mixer
+
 # Interactive Musik Mixer
 
 Built and designed multimedia application using design and motion tools, CSS, HTML, JavaScript.
@@ -74,10 +75,3 @@ Give an example
 Add additional notes about how to deploy this on a live system
 
 ## Built With
-
-
-
-
-
-
-
