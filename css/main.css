@@ -11,10 +11,7 @@ body
 {
 	background-color:#4F5DA9;
 	font-family: 'Coiny', cursive;
-      font-family: 'Source Serif Pro', serif;
-      font-family: 'Monoton', cursive;
-
-	
+     font-family: 'VT323', monospace;
 }
 #siteContainer
 {
@@ -33,12 +30,12 @@ body
 #head h2
 {
 	
-	font-size: 48px;
+	font-size: 72px;
 	font-weight: bold;
 	text-align: center;
 	margin-bottom: 40px;
 	margin-top: 30px;
-	font-family: 'Monoton', cursive;
+	font-family: 'VT323', monospace;
 
 }
 
@@ -71,10 +68,10 @@ body
 	width: 30%;
 }
 
-#powerBeat h2
+#power h2
 {
-	font-family: 'Monoton', cursive;
-	font-size: 16px;
+	font-family: 'VT323', monospace;
+	font-size: 24px;
 
 
 }
@@ -87,5 +84,32 @@ body
 #powerMelody img
 {
 	width: 30%;
+}
+
+#robots
+{
+	margin-left: 50px;
+}
+
+
+#robotOne svg
+{
+
+width: 20%;
+margin-bottom: -460px;
+margin-left: 20px;
+}
+
+#robotTwo
+{
+	margin-left: 300px;
+}
+
+#robotTwo svg
+{
+
+width: 28%;
+margin-bottom: -440px;
+
 }
 
