@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 23.0.2, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 103.4 207.3" style="enable-background:new 0 0 103.4 207.3;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#A6A1A6;}
+	.st1{fill:#D30707;}
+	.st2{fill:#56513D;}
+	.st3{fill:#FAF3A0;stroke:#57513E;stroke-miterlimit:10;}
+	.st4{fill:#57513E;stroke:#FAF3A0;stroke-miterlimit:10;}
+	.st5{fill:#F2F21C;}
+	.st6{fill:#B4AFB4;}
+	.st7{fill:#6F606B;}
+	.st8{fill:#A1A1B6;}
+	.st9{fill:#76696B;}
+	.st10{fill:#B8B6BA;}
+	.st11{fill:#38373B;}
+	.st12{fill:#D6D6D7;}
+	.st13{fill:#070707;}
+</style>
+<g id="Layer_1">
+	
+		<image style="display:none;overflow:visible;" width="564" height="564" xlink:href="71e8ff74849d83eccc63acbf9800fe68.jpg"  transform="matrix(1 0 0 1 -435.293 -317.7341)">
+	</image>
+</g>
+<g id="head">
+	<path class="st0" d="M25.7,50.3V24.6c0,0,6.1-16.9,20.9-19.4s25,8.4,25.5,9.6c0.5,1.2,4.6,7.7,4.8,9.8s0,26.6,0,26.6L25.7,50.3z"/>
+</g>
+<g id="nose">
+	<path class="st1" d="M46.1,4.4c0,0,5.1-9.9,10.1,0H46.1z"/>
+	<polygon class="st1" points="52,29.3 47.9,36.8 55.8,36.8 	"/>
+</g>
+<g id="mouth">
+	<rect x="39" y="42.2" class="st2" width="24.7" height="6.1"/>
+	<g id="left_x5F_eye">
+		<g>
+			<ellipse class="st3" cx="34.9" cy="32.1" rx="6.8" ry="7.3"/>
+		</g>
+		<circle class="st4" cx="34.9" cy="33.1" r="2.4"/>
+	</g>
+	<g id="left_x5F_eye_1_">
+		<g>
+			<ellipse class="st3" cx="68.3" cy="32.1" rx="6.8" ry="7.3"/>
+		</g>
+		<circle class="st4" cx="68.3" cy="33.1" r="2.4"/>
+	</g>
+</g>
+<g id="body">
+	<path id="right_x5F_arm" class="st1" d="M89.8,111.2c0,0,18.7-15.2,3.9-48.6l-8.8,10c0,0,5,4,3.6,16.8c0,0-4.7,17.6-8.2,17.2
+		L89.8,111.2z"/>
+	<path class="st5" d="M77.7,122.5l-1.5-5.7c0,0,8.7-5.4-0.2-11.5l1.7-4.6c0,0,7.2,2.2,9.3,8.4C86.9,109.2,88.9,120.8,77.7,122.5z"/>
+	<rect id="belly_x5F_screen" x="25.7" y="89.4" class="st6" width="51.3" height="44.5"/>
+	<path class="st7" d="M20.5,52.8v28.7c0,0,1.4,7,5.2,9.6s5.2,5.6,6.8,5.6c1.5,0,35.9,0,35.9,0s7.2-3.4,8.6-5.2
+		c1.5-1.8,5.1-5.8,5.3-7.6c0.2-1.8,0-31.2,0-31.2H20.5z"/>
+	<path class="st8" d="M66.7,86.8H37.5c-4.6,0-8.4-3.8-8.4-8.4V67.9c0-4.6,3.8-8.4,8.4-8.4h29.2c4.6,0,8.4,3.8,8.4,8.4v10.5
+		C75.1,83.1,71.4,86.8,66.7,86.8z"/>
+	<path id="left_x5F_arm" class="st1" d="M5.9,66.9c0,0-15.3,18.8,7.4,47.6l6.5-11.6c0,0-6-2.8-7.6-15.4c0,0,0.7-18,4.2-18.3
+		L5.9,66.9z"/>
+	<g id="right_x5F_sholder">
+		<path class="st8" d="M20.2,73.7c0,0-9.1-16.3-7.6-20c1.5-3.7,7-0.4,7-0.4L20.2,73.7z"/>
+		<path class="st8" d="M20.6,74c0,0-18.3-3.6-20.2-7.1c-1.9-3.5,4.2-5.7,4.2-5.7L20.6,74z"/>
+		<path class="st7" d="M20.6,74L6.1,62c0,0-1-8.4,5.3-5.7L20.6,74z"/>
+	</g>
+	<g id="left_x5F_sholder_1_">
+		<path class="st8" d="M83.6,74.5c0,0,13-13.3,17-13c4,0.4,2.4,6.6,2.4,6.6L83.6,74.5z"/>
+		<path class="st8" d="M83.4,75c0,0-1.8-18.6,1.1-21.4s6.6,2.4,6.6,2.4L83.4,75z"/>
+		<path class="st7" d="M83.4,75l7.5-17.3c0,0,7.7-3.3,6.9,3.5L83.4,75z"/>
+	</g>
+	<g id="left_x5F_leg_1_">
+		<polygon id="left_x5F_leg" class="st9" points="16.3,187.9 45.1,188.4 45.2,133 25.2,132.4 		"/>
+		<polygon id="light_x5F_gray_x5F_leg" class="st10" points="35.1,132.9 31.7,188 39.4,188 39.8,133 		"/>
+		<polygon id="foot_x5F_left" class="st11" points="15.5,187.1 12.2,196.8 12.1,202.3 13,206 47.1,206.9 49.5,203.3 48.9,198.2 
+			47.1,188 		"/>
+		
+			<rect id="white_x5F_striipe" x="12.2" y="197.7" transform="matrix(0.9993 3.806744e-02 -3.806744e-02 0.9993 7.6384 -1.0269)" class="st12" width="37.2" height="4.7"/>
+	</g>
+	<polygon id="left_x5F_leg_4_" class="st9" points="54.3,191.7 85.2,188.2 77.1,131 55.6,133.2 	"/>
+	<polygon id="light_x5F_gray_x5F_leg_1_" class="st10" points="67.5,133.2 68.6,188.5 76.6,188 72.4,132.9 	"/>
+	<polygon id="foot_x5F_left_1_" class="st11" points="53.2,188 50,197.9 50,203.5 51.2,207.2 86.9,207.3 89.4,203.6 88.6,198.5 
+		86.2,188.1 	"/>
+	<polygon id="white_x5F_striipe_1_" class="st12" points="88.6,203.4 50,203 50,198.7 88.6,199 	"/>
+	<g id="Layer_6">
+		<polygon class="st5" points="51.3,97.6 24.7,133.1 78.2,133.9 		"/>
+		<g id="triangle">
+			<ellipse class="st13" cx="37.9" cy="127.4" rx="2.2" ry="5"/>
+			<ellipse class="st13" cx="64.9" cy="127.4" rx="2.2" ry="5"/>
+			<ellipse class="st13" cx="45.1" cy="123.2" rx="1.7" ry="8.4"/>
+			<ellipse class="st13" cx="58.6" cy="123.2" rx="1.7" ry="8.4"/>
+			<ellipse class="st13" cx="51.8" cy="120.1" rx="1.8" ry="11"/>
+		</g>
+		<path class="st5" d="M25.7,104.1l0,5.9c0,0-9.8,2.9-2.7,11.1l-2.8,4c0,0-6.4-4-6.8-10.5C13.3,114.6,14.4,102.9,25.7,104.1z"/>
+	</g>
+</g>
+</svg>

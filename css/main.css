@@ -88,7 +88,7 @@ body
 
 #robots
 {
-	margin-left: 50px;
+	margin-left: 80px;
 }
 
 
@@ -111,5 +111,12 @@ margin-left: 20px;
 width: 28%;
 margin-bottom: -440px;
 
+}
+
+#robotThree svg
+{
+	width: 20%;
+margin-bottom: -440px;
+margin-left: 580px;
 }
 
