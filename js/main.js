@@ -12,6 +12,7 @@
 		power.forEach(img => {
 			img.addEventListener("dragstart", function(e) {
 				console.log('dragging');
+				e.dataTransfer.setData("text/plain", this.dataset.currenttrack);
 			});
 		});
 
@@ -25,19 +26,16 @@
 
 		zone.addEventListener('drop', function(e){
 			//e.preventDefault();
-			console.log('dropped')
+			console.log('dropped');
+			let currentTrack = e.dataTransfer.getData("text/plain");
+			let aud=document.createElement("audio");
+
+			aud.src = `music/${currentTrack}`;
+			aud.load();
+			aud.play();
 		});
 	});
 		
-	function playAudio() {
-		currentTrack = this.dataset.currenttrack;
-
-		aud.src = `music/beat/${currentTrack}`;
-		aud.load();
-		aud.play();
-
-		};
-
 
 	initDrag();
 
