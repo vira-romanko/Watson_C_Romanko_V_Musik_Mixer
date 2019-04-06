@@ -3,6 +3,7 @@
 
 	let power = document.querySelectorAll('img'),
 		robos = document.querySelectorAll('.robos'),
+		pause = document.querySelector("#resetBut"),
 		sound = document.querySelectorAll('.sound');
 
 
@@ -17,6 +18,8 @@
 		});
 
 	}
+
+	
 
 	robos.forEach(zone => {
 		zone.addEventListener('dragover', function(e) {
@@ -35,8 +38,13 @@
 			aud.play();
 		});
 	});
-		
 
+	function pauseAudio(e) {
+		aud.pause(true);
+	}
+		
+	pause.addEventListener("click", pauseAudio);
+	
 	initDrag();
 
 })();
