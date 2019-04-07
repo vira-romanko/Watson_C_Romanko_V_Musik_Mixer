@@ -5,7 +5,7 @@
 		robos = document.querySelectorAll('.robos'),
 		pause = document.querySelector("#resetBut"),
 		sound = document.querySelectorAll('.sound');
-
+		let aud=document.createElement("audio");
 
 
 	function initDrag() {
@@ -31,7 +31,6 @@
 			//e.preventDefault();
 			console.log('dropped');
 			let currentTrack = e.dataTransfer.getData("text/plain");
-			let aud=document.createElement("audio");
 
 			aud.src = `music/${currentTrack}`;
 			aud.load();
